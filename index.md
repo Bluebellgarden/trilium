@@ -1,4 +1,4 @@
+---
+title: Welcome to my blog
+---
 
-
-## Trillium
-### first flower in my digital garden, a random visual art blog. 
